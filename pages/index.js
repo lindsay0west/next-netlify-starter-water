@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-     <code>index.html</code>
+     window.location.assign("/index.html")
       </main>
 
       <Footer />
