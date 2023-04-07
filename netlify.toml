@@ -4,3 +4,6 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+  package = "@netlify/plugin-nextjs"
+  package = "@netlify/plugin-lighthouse"
+  package = "netlify-plugin-chromium"
