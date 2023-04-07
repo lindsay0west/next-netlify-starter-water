@@ -17,7 +17,7 @@ a:hover { color:#000080; }
 #button_785adad6:hover span { color:#FFFFFF; }
 body { background-color:#000000; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
-#container_24a694d0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
+#container_24a694d0 { vertical-align: top; border-radius: 15px; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
 #container_24a694d0_padding { margin: 10px; display: block;  }
 .textstyle2 { text-align:left; }
 #container_c798b63 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#C0C0C0;  }
